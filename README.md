@@ -1,8 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47ysjqw498k91ti8ogxrm3i2dmoxd7ackn6zi0dqpl&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
+</div>
+
+### Hii there 👋
 
 # 💫 About Me:
 📌Computer Engineering student at Pandit Deendayal Energy University, Gujarat.<br>📌Hands on at programming languages like:C/Python/Java/Javascript.<br>📌Backend developer.<br>📌Kali Linux <br>📌Progressing in field of cyber security.
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e4760uewmfjecd13ttt0g8xuf1ipadlc6c7yt37w6jf&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-mehta-061b36248) 
