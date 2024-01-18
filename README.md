@@ -3,6 +3,7 @@
 </div>
 
 ### Hii there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=DevMehta22&label=Profile+Views)
 
 # 💫 About Me:
 📌Computer Engineering student at Pandit Deendayal Energy University, Gujarat.<br>📌Hands on at programming languages like:C/Python/Java/Javascript.<br>📌Backend developer.<br>📌Kali Linux <br>📌Progressing in field of cyber security.
